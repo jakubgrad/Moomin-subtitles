@@ -1,0 +1,1388 @@
+1
+00:00:00,000 --> 00:00:14,000
+Muunilaaksossa vietetään jälleen kerran laiskaa päivää.
+
+2
+00:00:18,000 --> 00:00:19,000
+Vähän tylsää.
+
+3
+00:00:20,000 --> 00:00:22,000
+Hyvin tylsää. Minä kaipaan jotain uutta.
+
+4
+00:00:23,000 --> 00:00:25,000
+Täällä kaikki on läpikotaisin tuttua.
+
+5
+00:00:26,000 --> 00:00:28,000
+Meidän pitäisi lähteä pitkälle matkalle.
+
+6
+00:00:28,000 --> 00:00:32,000
+Matkusteleminen on varmaan hauskaa, eikö olekin uskamuikkuneen?
+
+7
+00:00:33,000 --> 00:00:36,000
+En minä kuitenkaan ole kyllästynyt Muunilaaksoon.
+
+8
+00:00:37,000 --> 00:00:39,000
+Miksi sinä sitä aina lähdet pois?
+
+9
+00:00:40,000 --> 00:00:42,000
+En oikeastaan tiedä, kai minun on pakko.
+
+10
+00:00:43,000 --> 00:00:47,000
+Jos en lähtisi välillä pois, voisin unohtaa, että Muunilaakso on maailman paras paikka.
+
+11
+00:00:48,000 --> 00:00:50,000
+Hassua! Hei joku tulee!
+
+12
+00:00:54,000 --> 00:00:56,000
+Oudon näköinen tyyppi.
+
+13
+00:00:56,000 --> 00:00:57,000
+Ei tiedä hyvää.
+
+14
+00:00:59,000 --> 00:01:00,000
+Aamupäivää!
+
+15
+00:01:00,000 --> 00:01:01,000
+Päivää!
+
+16
+00:01:01,000 --> 00:01:03,000
+Onkohan tämä Muunilaakso?
+
+17
+00:01:03,000 --> 00:01:07,000
+On. Etsittekö mahdollisesti jotakuta tiettyä henkilöä?
+
+18
+00:01:07,000 --> 00:01:12,000
+Kyllä. Minun olisi tavattava herra Muumipappa. Nimi kalskahtaa oudelta.
+
+19
+00:01:12,000 --> 00:01:14,000
+Hän on minun isäni.
+
+20
+00:01:14,000 --> 00:01:16,000
+Näytä tie hänen luokseen.
+
+21
+00:01:17,000 --> 00:01:19,000
+Päivää. Teillä oli minulle asiaa.
+
+22
+00:01:20,000 --> 00:01:23,000
+Minä tuon valitettavasti kotiinne suruviestin.
+
+23
+00:01:23,000 --> 00:01:24,000
+Ai.
+
+24
+00:01:24,000 --> 00:01:28,000
+Baroni Grille on siirtynyt ajasta iäisyyteen.
+
+25
+00:01:28,000 --> 00:01:29,000
+Baroni kuka?
+
+26
+00:01:29,000 --> 00:01:32,000
+Ettekö tunne omia sukulaisianne?
+
+27
+00:01:32,000 --> 00:01:34,000
+Ehkähän on sinun sukulaisiasi, mamma.
+
+28
+00:01:34,000 --> 00:01:37,000
+Ei, en usko, että olen kuullut tuota nimeä.
+
+29
+00:01:37,000 --> 00:01:42,000
+En voi käsittää tämänkaltaista leväperäisyyttä, herra Muumipappa.
+
+30
+00:01:42,000 --> 00:01:47,000
+Baroni Grille oli pikkuserkkunne kuudennessa polvessa melko läheistä sukua siis.
+
+31
+00:01:47,000 --> 00:01:50,000
+Varjelkoon mies parka.
+
+32
+00:01:50,000 --> 00:01:56,000
+Niin. Saan en kertoa, että meidän oli tavattoman vaivalluista löytää teidät, herra Muumipappa.
+
+33
+00:01:56,000 --> 00:02:01,000
+Siihen tuhraantui kokonaista viisi vuotta täysitehoista työtä.
+
+34
+00:02:01,000 --> 00:02:03,000
+Turha vaivavainajan takia!
+
+35
+00:02:03,000 --> 00:02:05,000
+Ei suinkaan, neitiseni.
+
+36
+00:02:05,000 --> 00:02:10,000
+Baroni Grillen kaikki lähissukulaiset ovat menneet mananmajoille aikoja sitten.
+
+37
+00:02:10,000 --> 00:02:15,000
+Olemme saaneet selville, että herra Muumipappa on Baroni Grillen ainoa periä.
+
+38
+00:02:15,000 --> 00:02:17,000
+Vai periä?
+
+39
+00:02:17,000 --> 00:02:20,000
+Siinä on luettelo Grillen tiluksista.
+
+40
+00:02:20,000 --> 00:02:26,000
+Voisitteko ystävällisesti todistaa nimikirjoituksellamme, että olemme suorittaneet velvollisuutemme?
+
+41
+00:02:26,000 --> 00:02:29,000
+Mitä tämä Grillenkartano tarkoittaa?
+
+42
+00:02:29,000 --> 00:02:34,000
+Yksi viimeisistä maamme suurista maatiloista on siirtynyt teidän omistukseen.
+
+43
+00:02:34,000 --> 00:02:39,000
+Sen viljeleminen tulee olemaan vaativaa haasteja suuremmoinen velvollisuus.
+
+44
+00:02:39,000 --> 00:02:42,000
+Japa! Minä en välitä mistään haasteista.
+
+45
+00:02:42,000 --> 00:02:46,000
+Muumitalossa on tarpeeksi hoitamista. En tarvitse maatilaa.
+
+46
+00:02:46,000 --> 00:02:48,000
+Harkitkaa sanojanne, Muumipappa.
+
+47
+00:02:48,000 --> 00:02:54,000
+Minä vähäät välitän viljelysmaista. En pidä edes puutarhan hoidosta.
+
+48
+00:02:54,000 --> 00:02:57,000
+Eikö kartanoa voisi antaa jollekin ei-sukulaiselle?
+
+49
+00:02:57,000 --> 00:03:01,000
+Moneen mielestä se olisi mukava yllätys, olen varma!
+
+50
+00:03:01,000 --> 00:03:06,000
+No voi, hyvänen aika. Se olisi vastoin lain henkeä.
+
+51
+00:03:06,000 --> 00:03:07,000
+Tuota, anteeksi.
+
+52
+00:03:07,000 --> 00:03:08,000
+No mitä?
+
+53
+00:03:08,000 --> 00:03:14,000
+Nimeni on Nipsu ja olen hyvin likeinen Muumeille. Voi sanoa, että kuulun tavallaan sukuun.
+
+54
+00:03:14,000 --> 00:03:17,000
+Etkä kuulu! Saisit hävetä!
+
+55
+00:03:17,000 --> 00:03:18,000
+Miksi?
+
+56
+00:03:18,000 --> 00:03:23,000
+Tarkoitatko, että jos kukaan ei huoli krillen kartanoa, niin sinä otat sen?
+
+57
+00:03:23,000 --> 00:03:27,000
+Minä en näe sinä mitään väärää. Älä pila minun mahdollisuuksiani.
+
+58
+00:03:27,000 --> 00:03:31,000
+Nuori mies pelkkä ystävyys Muumeihin ei tee sinusta perjää.
+
+59
+00:03:31,000 --> 00:03:35,000
+Täytyy sanoa, että perinnöstä kieltäytyminen on poikkeuksellista.
+
+60
+00:03:35,000 --> 00:03:39,000
+Minun on palattava etsimään ennakkotapauksia.
+
+61
+00:03:40,000 --> 00:03:44,000
+Anteeksi, me teemme ilmeisesti aina vastoin odotuksia.
+
+62
+00:03:44,000 --> 00:03:49,000
+Tätä minun ei ollut tarkoitus kertoa teille, mutta ehkä päätitte viisaasti.
+
+63
+00:03:49,000 --> 00:03:52,000
+Olen iloinen puolestanne.
+
+64
+00:03:52,000 --> 00:04:00,000
+Kukaan ei ole huolehtunut krillen kartanosta viiteen vuoteen ja huhu kertoo, että siellä kummittelee.
+
+65
+00:04:00,000 --> 00:04:02,000
+Kummittelee?
+
+66
+00:04:02,000 --> 00:04:03,000
+Kummituksesta on!
+
+67
+00:04:03,000 --> 00:04:06,000
+Siellä on kuulemma tapahtunut outoja asioita.
+
+68
+00:04:06,000 --> 00:04:09,000
+Aaveita liihoittelee ja niin pois päin.
+
+69
+00:04:09,000 --> 00:04:15,000
+Yksikään elävä olento ei enää uskalla astua jalallaankaan kartanon huoneisiin.
+
+70
+00:04:15,000 --> 00:04:17,000
+Oikeita aaveita vai?
+
+71
+00:04:17,000 --> 00:04:23,000
+Oikeita tietenkin. Minä te oikein pidätte minua. Se on kummituskartano.
+
+72
+00:04:23,000 --> 00:04:27,000
+Siellä voi olla törmä tai kidutuskammio!
+
+73
+00:04:27,000 --> 00:04:32,000
+Äkkiseltään sitä on vaikea huomata, mutta rakennuksen lattia ovat märäntyneet
+
+74
+00:04:32,000 --> 00:04:34,000
+ja puutarha on kerrassaan hirveä.
+
+75
+00:04:34,000 --> 00:04:36,000
+Miten niin hirveä?
+
+76
+00:04:36,000 --> 00:04:42,000
+Kukaan ei ole niittänyt eikä kitkenyt vuosikausiin. Puutarha on miltein luoksepääsemätön viidakko.
+
+77
+00:04:42,000 --> 00:04:43,000
+Viidakko?
+
+78
+00:04:43,000 --> 00:04:44,000
+Viidakko!
+
+79
+00:04:44,000 --> 00:04:47,000
+Totta puhuen sieltä kantautuu pelottavia ääniä.
+
+80
+00:04:47,000 --> 00:04:49,000
+Kuulostaa hauskalta.
+
+81
+00:04:49,000 --> 00:04:51,000
+Viidakko on hurjan jännittävä.
+
+82
+00:04:51,000 --> 00:04:54,000
+Rovanttista köynnästä peittämä linnä.
+
+83
+00:04:54,000 --> 00:04:57,000
+Haarinskapukuinen kummitus.
+
+84
+00:04:57,000 --> 00:04:59,000
+Minä taidan nukkua muumiteikon vieressä.
+
+85
+00:04:59,000 --> 00:05:01,000
+Isä lähdetään jo.
+
+86
+00:05:01,000 --> 00:05:05,000
+Minä tahdon lähdä! Onko aveen haarniska läpinäkyvä?
+
+87
+00:05:05,000 --> 00:05:07,000
+Mamma, lähdetäänkö?
+
+88
+00:05:07,000 --> 00:05:10,000
+Pappa, kuulta luulen, että sinä nauttisit olostasi siellä.
+
+89
+00:05:10,000 --> 00:05:12,000
+No matkaa sitten.
+
+90
+00:05:12,000 --> 00:05:13,000
+Lähdetään!
+
+91
+00:05:13,000 --> 00:05:15,000
+Minä asun kidutuskamiossa!
+
+92
+00:05:15,000 --> 00:05:17,000
+Siellä on varmasti aari.
+
+93
+00:05:18,000 --> 00:05:20,000
+Täysintä rähtänyttä väkeä.
+
+94
+00:05:22,000 --> 00:05:25,000
+Miksi porhalla me näin kamalaa vauhtia?
+
+95
+00:05:25,000 --> 00:05:27,000
+Minä tahdon lepoa ja voi leipiä.
+
+96
+00:05:27,000 --> 00:05:30,000
+Mutta nipsujuurihamme pidimme taukoa.
+
+97
+00:05:30,000 --> 00:05:32,000
+Nuuska muikkunen oli viisas.
+
+98
+00:05:32,000 --> 00:05:34,000
+Hän istuu parhaillaan juomassa teetä.
+
+99
+00:05:34,000 --> 00:05:36,000
+Olisit jäänyt kotiin.
+
+100
+00:05:36,000 --> 00:05:39,000
+Eikä vieläkään ole myöhäistä kääntyä takaisin.
+
+101
+00:05:39,000 --> 00:05:43,000
+Minä potkaisin sinut vauhtiin niin, että kierrit koko matkan!
+
+102
+00:06:01,000 --> 00:06:04,000
+Eiköhän tämä ole krillen kartano?
+
+103
+00:06:04,000 --> 00:06:06,000
+Pitäisi olla.
+
+104
+00:06:06,000 --> 00:06:09,000
+Sitä täytyy nyt kutsua muumien kartanoksi.
+
+105
+00:06:11,000 --> 00:06:13,000
+Kei, tästä näkyy päärakennus!
+
+106
+00:06:21,000 --> 00:06:23,000
+Hauskempaa kuin kuvittelikä!
+
+107
+00:06:31,000 --> 00:06:35,000
+Moi, anteeksi kovasti. En tiennyt, että sinä olit siinä.
+
+108
+00:06:35,000 --> 00:06:39,000
+Muuten, ei tämä ole mikään sinun torkkupaittasi.
+
+109
+00:06:39,000 --> 00:06:41,000
+Kalpis sikolättiin siitä.
+
+110
+00:06:45,000 --> 00:06:47,000
+Apua!
+
+111
+00:06:48,000 --> 00:06:50,000
+Voi, tieltä!
+
+112
+00:06:56,000 --> 00:06:59,000
+Vois, pois, älkää asettoko tielle niin!
+
+113
+00:06:59,000 --> 00:07:02,000
+Hei, älkää vitsikö nokkia! Lopettakaa kurvotus!
+
+114
+00:07:06,000 --> 00:07:09,000
+Huikea viidakko, käy ihmissyöjä kanoja!
+
+115
+00:07:10,000 --> 00:07:12,000
+Apua!
+
+116
+00:07:12,000 --> 00:07:14,000
+Ai, ai.
+
+117
+00:07:14,080 --> 00:07:16,080
+Ai, ai, ai.
+
+118
+00:07:16,160 --> 00:07:18,160
+Nipsu, pidät kiinni tai putoat.
+
+119
+00:07:18,240 --> 00:07:20,240
+Olet hyvin eteenpäin.
+
+120
+00:07:20,320 --> 00:07:22,320
+Näin tahdo olla, eteenpäin.
+
+121
+00:07:22,400 --> 00:07:24,400
+Oh!
+
+122
+00:07:24,480 --> 00:07:26,480
+Kujut, kujut, kujut.
+
+123
+00:07:26,560 --> 00:07:28,560
+Oh!
+
+124
+00:07:28,640 --> 00:07:30,640
+Ei, ei.
+
+125
+00:07:30,720 --> 00:07:35,200
+Hyppää ratsaille, kun Nipsu on nuljahtanut nurin niskoin alas.
+
+126
+00:07:36,160 --> 00:07:38,160
+Kyöntäkää.
+
+127
+00:07:38,240 --> 00:07:40,240
+Kyöntäkää.
+
+128
+00:07:40,480 --> 00:07:42,480
+Kaikki voimii...
+
+129
+00:07:46,000 --> 00:07:48,000
+Aha.
+
+130
+00:07:48,080 --> 00:07:50,080
+Herraskaisen näköistä.
+
+131
+00:07:50,160 --> 00:07:52,160
+Kukku luuruu.
+
+132
+00:07:52,240 --> 00:07:54,240
+Älä huuda. Ei täällä ketään ole.
+
+133
+00:07:54,320 --> 00:07:56,320
+Korkeintaan kummituksia.
+
+134
+00:07:56,400 --> 00:07:58,400
+Kummituksia.
+
+135
+00:08:09,040 --> 00:08:11,040
+Uli jäitä esi-isiä.
+
+136
+00:08:27,120 --> 00:08:29,120
+Ai.
+
+137
+00:08:29,200 --> 00:08:31,200
+Apua. Ovi vain noaa minua.
+
+138
+00:08:31,280 --> 00:08:33,280
+Sinulle sattuu aina kaikenlaista.
+
+139
+00:08:38,080 --> 00:08:40,080
+Tämän kirjastohuoneen minä haluaisin mukaan.
+
+140
+00:08:40,160 --> 00:08:42,160
+Niin muumilaaksoon.
+
+141
+00:08:42,240 --> 00:08:44,240
+Saako tulla?
+
+142
+00:08:44,320 --> 00:08:46,320
+Tule vain.
+
+143
+00:08:46,400 --> 00:08:48,400
+Alon etsiä.
+
+144
+00:08:48,480 --> 00:08:50,480
+Oi, oi.
+
+145
+00:08:50,560 --> 00:08:54,560
+Tämmöisen keittiön minä totta vie haluaisin muumilaaksoon.
+
+146
+00:08:57,120 --> 00:08:59,120
+Ei ketään.
+
+147
+00:09:13,200 --> 00:09:15,200
+Ai, ei, ei. Ei saa.
+
+148
+00:09:15,280 --> 00:09:17,280
+Minä en ala mitään.
+
+149
+00:09:17,360 --> 00:09:19,360
+Löysin sinut.
+
+150
+00:09:19,440 --> 00:09:21,440
+Nisku-neiti ja myyly myövät samassa piilopaikassa.
+
+151
+00:09:21,520 --> 00:09:23,520
+Mistä sinä niin päättelet?
+
+152
+00:09:23,600 --> 00:09:25,600
+Kuulin, kuinka he suosittuivat.
+
+153
+00:09:25,760 --> 00:09:27,760
+Sopimatonta.
+
+154
+00:09:27,840 --> 00:09:29,840
+Kuulitko muumi-peikko?
+
+155
+00:09:29,920 --> 00:09:31,920
+Kuulin. Ei ollut takuulla nisku-neiti eikä myy.
+
+156
+00:09:32,000 --> 00:09:34,000
+No kuka se sitten oli?
+
+157
+00:09:34,080 --> 00:09:36,080
+En minä tiedä.
+
+158
+00:09:36,160 --> 00:09:38,160
+Voisimme kysyä.
+
+159
+00:09:38,240 --> 00:09:40,240
+Ei. Minä en halua tietää missään tapauksessa.
+
+160
+00:09:40,320 --> 00:09:42,320
+Miksät haluaa?
+
+161
+00:09:42,400 --> 00:09:44,400
+En pidä näkymättömistä äänistä.
+
+162
+00:09:44,480 --> 00:09:46,480
+Lähdetään pois.
+
+163
+00:09:46,560 --> 00:09:48,560
+Voi muumi-peikko, mitä nyt?
+
+164
+00:09:48,640 --> 00:09:50,640
+Katsot tuonne.
+
+165
+00:09:50,720 --> 00:09:52,720
+Tuossa vuoteessa on jotain outoa.
+
+166
+00:09:52,800 --> 00:09:54,800
+Miten niin on?
+
+167
+00:09:54,880 --> 00:09:56,880
+Miten niin outoa?
+
+168
+00:09:56,960 --> 00:09:58,960
+Nisku-neiti ja myy ovat siellä piilossa.
+
+169
+00:09:59,040 --> 00:10:01,040
+Minä en viihdy täällä.
+
+170
+00:10:01,120 --> 00:10:03,120
+Ei viitsidä leikkiä piilosta.
+
+171
+00:10:03,200 --> 00:10:05,200
+Mennään ulos.
+
+172
+00:10:12,400 --> 00:10:14,400
+Myy, minä löysin sinut.
+
+173
+00:10:14,480 --> 00:10:16,480
+Sinut myös nisku-neiti.
+
+174
+00:10:16,560 --> 00:10:18,560
+Löysin teidät molemmat.
+
+175
+00:10:18,640 --> 00:10:20,640
+Etkä löytänyt?
+
+176
+00:10:20,720 --> 00:10:22,720
+Vain niin. Mitäs nyt sanotte?
+
+177
+00:10:24,960 --> 00:10:26,960
+Arvasin. Samassa piilossa.
+
+178
+00:10:27,040 --> 00:10:29,040
+Älkää karatko.
+
+179
+00:10:29,120 --> 00:10:31,120
+Voi, meikko, älä käpällä, Tirti.
+
+180
+00:10:31,200 --> 00:10:33,200
+Rikotte Graviin vuoteen.
+
+181
+00:10:33,280 --> 00:10:35,280
+Taas tuo ääni.
+
+182
+00:10:35,360 --> 00:10:37,360
+Mitä nyt?
+
+183
+00:10:37,440 --> 00:10:39,440
+Poisi Gravi Freirikin vuoteesta.
+
+184
+00:10:39,520 --> 00:10:41,520
+Totellaan ääntä. Alas sängystä kaikki.
+
+185
+00:10:41,600 --> 00:10:43,600
+Mutta sängy tuntuu vankalta.
+
+186
+00:10:43,680 --> 00:10:45,680
+Oh, luhtia.
+
+187
+00:10:54,800 --> 00:10:56,800
+Miten minä saan sitetettyä valkea?
+
+188
+00:11:03,840 --> 00:11:05,840
+Puita kuin tilauksesta.
+
+189
+00:11:05,920 --> 00:11:09,920
+Kuulostaa siltä, että nuoripolvi olisi keksinyt uudelleikin.
+
+190
+00:11:12,000 --> 00:11:14,000
+Missä pikku myy on?
+
+191
+00:11:14,080 --> 00:11:16,080
+Hei, myy!
+
+192
+00:11:16,160 --> 00:11:18,160
+Minä olen Suomi.
+
+193
+00:11:18,240 --> 00:11:20,240
+Minä olen Suomi.
+
+194
+00:11:20,320 --> 00:11:22,320
+Minä olen Suomi.
+
+195
+00:11:22,400 --> 00:11:24,400
+Minä olen Suomi.
+
+196
+00:11:24,480 --> 00:11:26,480
+Minä olen myy.
+
+197
+00:11:26,560 --> 00:11:28,560
+Myy meni sängyn mukana.
+
+198
+00:11:28,640 --> 00:11:30,640
+Minä olen täällä.
+
+199
+00:11:30,720 --> 00:11:32,720
+Kiitos ja ylistys.
+
+200
+00:11:32,800 --> 00:11:36,800
+Olisi ihan minun pitänyt tietää, että ei meidän tarvitse olla ikinä huolissamme pikku myystä.
+
+201
+00:11:36,880 --> 00:11:38,880
+Ei tarvitsekaan!
+
+202
+00:11:38,960 --> 00:11:42,960
+Minä olen niin pieni, että ei minulle voi tapahtua mitään!
+
+203
+00:11:54,400 --> 00:11:56,400
+Täällä on joku. Tunnen sen.
+
+204
+00:12:24,400 --> 00:12:26,400
+Hei siellä!
+
+205
+00:12:26,480 --> 00:12:28,480
+Hei, älä mene!
+
+206
+00:12:28,560 --> 00:12:32,560
+Sinun äänesi pelasti meidät putoamasta sängyn mukana, eikö vain?
+
+207
+00:12:32,640 --> 00:12:36,640
+Tahtoisimme kiittää sinua siitä hyvästä.
+
+208
+00:12:36,720 --> 00:12:38,720
+Minä yritin pelastaa vuoteen.
+
+209
+00:12:38,800 --> 00:12:42,800
+Sääli vuodetta, ja anteeksi, että pelästytin sinut.
+
+210
+00:12:42,880 --> 00:12:44,880
+Siin.
+
+211
+00:12:46,960 --> 00:12:48,960
+En ole kokenut muista kauaa.
+
+212
+00:12:49,040 --> 00:12:51,040
+700 vuotta sitten.
+
+213
+00:12:51,520 --> 00:12:53,520
+En ole kokenut muista kauaa.
+
+214
+00:12:53,600 --> 00:12:57,600
+700 vuoteen, vaikka minun tässä pitäisi kauaa erättää.
+
+215
+00:12:57,680 --> 00:13:00,680
+No kyllä minä vähän pelästyin oikeastaan.
+
+216
+00:13:00,760 --> 00:13:03,760
+Jos tarkemmin ajattelee, niin kyllä pelästyin.
+
+217
+00:13:03,840 --> 00:13:06,840
+Hyvä, sinä näytät koin kiinnostavalta.
+
+218
+00:13:06,920 --> 00:13:08,920
+Muotoasi on vain kumman valkoinen.
+
+219
+00:13:09,000 --> 00:13:12,000
+Olisin luultavasti säikähtänyt sinua enemmän,
+
+220
+00:13:12,080 --> 00:13:14,080
+ellen olisin nähnyt ennenkin kummituksia.
+
+221
+00:13:14,160 --> 00:13:16,160
+Minulla on kokemuksia niistä.
+
+222
+00:13:16,240 --> 00:13:18,240
+Ai, niinkö?
+
+223
+00:13:18,720 --> 00:13:21,720
+Näin yhden kummituksen eräällä majakkasaarella.
+
+224
+00:13:21,800 --> 00:13:23,800
+Se oli tullut sinne aavelaivalla.
+
+225
+00:13:23,880 --> 00:13:25,880
+Kuinka romanttista?
+
+226
+00:13:25,960 --> 00:13:27,960
+No, tavallaan.
+
+227
+00:13:28,040 --> 00:13:32,040
+Ja isäni tunsi nuoruudessaan aaveen, ja he olivat hyviä ystäviä.
+
+228
+00:13:32,120 --> 00:13:35,120
+Onnellinen isäpappa minä kadeilin ältä.
+
+229
+00:13:35,200 --> 00:13:37,200
+Miksi?
+
+230
+00:13:37,280 --> 00:13:40,280
+Minä olen krillenkartanon ainoa jäljellä oleva aave.
+
+231
+00:13:40,360 --> 00:13:43,360
+Muut menivät tuulen mukana mustana yönä,
+
+232
+00:13:43,440 --> 00:13:45,440
+joulukuisen myrskyn raivotessa.
+
+233
+00:13:45,520 --> 00:13:47,520
+1634.
+
+234
+00:13:47,760 --> 00:13:50,760
+Ja erään aamuna Gravy Freric oli poissa,
+
+235
+00:13:50,840 --> 00:13:52,840
+minun avistamatta mitään.
+
+236
+00:13:52,920 --> 00:13:55,920
+Sitten et varmaan ole puhunut pitkään aikaan.
+
+237
+00:13:56,000 --> 00:13:58,000
+Kahden vuosisataan.
+
+238
+00:13:58,080 --> 00:14:00,080
+Se on kamalaa.
+
+239
+00:14:00,160 --> 00:14:02,160
+Niin on, ja minä kun pidän puhumisesta,
+
+240
+00:14:02,240 --> 00:14:05,240
+Gravy Frericin mielestä minä puhuin liikaa.
+
+241
+00:14:05,320 --> 00:14:08,320
+Olen varma, että tuuli vei myös Gravin.
+
+242
+00:14:08,400 --> 00:14:10,400
+Vastatuuli ehkä.
+
+243
+00:14:10,480 --> 00:14:13,480
+No nyt tiedät aadinkonia sen, miten kipeästi kaipaan
+
+244
+00:14:13,560 --> 00:14:16,560
+innokasta kuuntelijaa ja myötäeläjää.
+
+245
+00:14:18,360 --> 00:14:20,360
+Kuulostaa uskomattomalta.
+
+246
+00:14:20,440 --> 00:14:22,440
+Puhuitko tosiaan aaveen kanssa?
+
+247
+00:14:22,520 --> 00:14:25,520
+Puhuin. Hänen nimensä on Musta Gravitar
+
+248
+00:14:25,600 --> 00:14:27,600
+ja hän kaipaa seuraa.
+
+249
+00:14:27,680 --> 00:14:29,680
+Minä osaisin keskustella aaveen kanssa
+
+250
+00:14:29,760 --> 00:14:31,760
+kautta unohdettujen luiden
+
+251
+00:14:31,840 --> 00:14:34,840
+tai vapiset tuhansien hautojen varjo.
+
+252
+00:14:34,920 --> 00:14:36,920
+Aave haluaa puhua minun kanssani.
+
+253
+00:14:37,000 --> 00:14:40,000
+Mä pitän harvasanoisesta puhekaverista.
+
+254
+00:14:42,080 --> 00:14:44,080
+Pyydetään aave päivälliselle.
+
+255
+00:14:44,160 --> 00:14:46,160
+Miten olisi kylmät leikkeleet?
+
+256
+00:14:46,640 --> 00:14:49,640
+Päivän valossa minäkin voisin tavata aaveen.
+
+257
+00:14:49,720 --> 00:14:51,720
+Etkä voisi. Ja mikseen?
+
+258
+00:14:51,800 --> 00:14:53,800
+Koska olisit silloin liian peloissasi.
+
+259
+00:14:53,880 --> 00:14:56,160
+Ei minä päivän valossa pelkää.
+
+260
+00:14:56,240 --> 00:15:00,240
+Musta Gravitar ei halua tulla nähdyksi päiväsaikaan.
+
+261
+00:15:00,320 --> 00:15:02,320
+Hän pelkää valoa.
+
+262
+00:15:02,400 --> 00:15:05,400
+Minä tiedän. Päivän valo muuttaa hänet kurpitsaksi.
+
+263
+00:15:05,400 --> 00:15:07,400
+Hehehe.
+
+264
+00:15:08,400 --> 00:15:10,400
+Aaaaaah!
+
+265
+00:15:10,400 --> 00:15:12,400
+Aaaaaah!
+
+266
+00:15:14,400 --> 00:15:18,400
+Anteeksi, Voovi-Peikko, luulin sinua porsaksi.
+
+267
+00:15:20,400 --> 00:15:22,400
+Fredrikullan muotokuva.
+
+268
+00:15:22,400 --> 00:15:25,400
+Fredrikillä oli vikansa, mutta hän oli tosi himies.
+
+269
+00:15:25,400 --> 00:15:27,400
+Siltähän kyllä näyttää.
+
+270
+00:15:27,400 --> 00:15:30,400
+Tietysti, mutta huono kuuntelija.
+
+271
+00:15:30,400 --> 00:15:32,400
+Hän tunki vahaa korviinsa.
+
+272
+00:15:33,400 --> 00:15:36,400
+Minusta tuntuu, että meidän on puututtava asiaan.
+
+273
+00:15:37,400 --> 00:15:41,400
+Olet oikeassa, muuten Voovi-Peikko ei saa ikinä nukkua.
+
+274
+00:15:47,400 --> 00:15:50,400
+Oh, öinen luiden kalistelija.
+
+275
+00:15:50,400 --> 00:15:54,400
+Tarvitsemme pikaisesti apuasi tule heti
+
+276
+00:15:54,400 --> 00:15:58,400
+muumitalon isäntä, muinainen naapurisi.
+
+277
+00:15:58,400 --> 00:16:00,400
+Nyt kirje on valmis.
+
+278
+00:16:00,400 --> 00:16:02,400
+Hyvin keksitty.
+
+279
+00:16:02,400 --> 00:16:04,400
+Olen varma, että Aave-ystäväsi vastaa kutsuun.
+
+280
+00:16:04,400 --> 00:16:06,400
+Niin minäkin.
+
+281
+00:16:06,400 --> 00:16:11,400
+Toivottavasti hän asuu yhä entisessä paikassaan, missä tapasit hänet.
+
+282
+00:16:14,400 --> 00:16:16,400
+Toivomme on nyt kirjeessä.
+
+283
+00:16:19,400 --> 00:16:22,400
+Liikettä, typerät, rähkiä, kruutai sinne päin.
+
+284
+00:16:22,400 --> 00:16:25,400
+Anteeksi nyt, mutta teidän täytyy siirtyä.
+
+285
+00:16:25,400 --> 00:16:29,400
+Me saamme vieraan ja meidän on pakko siistiä paikkoja.
+
+286
+00:16:30,400 --> 00:16:32,400
+Herta ja Heluna sisään.
+
+287
+00:16:32,400 --> 00:16:35,400
+Älkää yrittäkö temppuilla minulle.
+
+288
+00:16:35,400 --> 00:16:37,400
+Minä en ole nipsu.
+
+289
+00:16:37,400 --> 00:16:40,400
+Teltätte epäsiisteltä puussa.
+
+290
+00:16:40,400 --> 00:16:43,400
+Alas siitä nyt, niin kuin olisitte jo.
+
+291
+00:16:48,400 --> 00:16:50,400
+Isä, mitä täällä on meneillään?
+
+292
+00:16:50,400 --> 00:16:53,400
+No, meillä on tavallaan eräs projekti.
+
+293
+00:16:53,400 --> 00:16:55,400
+Sen itän myöhemmin.
+
+294
+00:16:55,400 --> 00:16:57,400
+Nyt tarvitsemme apuasi.
+
+295
+00:17:00,400 --> 00:17:04,400
+Katsokaa, mitä löysin navetasta.
+
+296
+00:17:30,400 --> 00:17:32,400
+Oh, hän tuli.
+
+297
+00:17:32,400 --> 00:17:35,400
+Luulen, että hän pitää kartanosta.
+
+298
+00:17:35,400 --> 00:17:39,400
+Minun täytyy sanoa, että olen aivan hirmuisen pettynyt.
+
+299
+00:17:39,400 --> 00:17:41,400
+Mutta minkä ihmeen takia?
+
+300
+00:17:41,400 --> 00:17:44,400
+Minä haluan tavata pelottavan aaveen.
+
+301
+00:17:44,400 --> 00:17:47,400
+Sinä ajattelet aina vain itseäsi.
+
+302
+00:17:47,400 --> 00:17:49,400
+Toivottavasti kaikki sujuu hyvin.
+
+303
+00:17:49,400 --> 00:17:51,400
+Sujuu varmaan.
+
+304
+00:17:51,400 --> 00:17:54,400
+Kartanopuisto on siistitty niin hienoksi.
+
+305
+00:17:54,400 --> 00:17:57,400
+Ajattelimme, että se ensimmäinen aave,
+
+306
+00:17:57,400 --> 00:18:00,400
+ei sovi kartanon arvolle.
+
+307
+00:18:00,400 --> 00:18:03,400
+Kiltisti ajateltu, Moomipeikko.
+
+308
+00:18:03,400 --> 00:18:06,400
+Oh, oikeastaan se oli isän idea. Kiitän häntä.
+
+309
+00:18:06,400 --> 00:18:08,400
+Oh, voi katsoa.
+
+310
+00:18:08,400 --> 00:18:10,400
+Näen aavemaisen hamon.
+
+311
+00:18:12,400 --> 00:18:14,400
+Ahaa, isän kirje tehosi.
+
+312
+00:18:14,400 --> 00:18:16,400
+Hän on tullut tapamaan sinua.
+
+313
+00:18:16,400 --> 00:18:17,400
+Minua?
+
+314
+00:18:17,400 --> 00:18:18,400
+Joo.
+
+315
+00:18:18,400 --> 00:18:21,400
+Tuo on se meidän isän aaveystävä.
+
+316
+00:18:21,400 --> 00:18:23,400
+Isä kertoi, että hän on synty perältä,
+
+317
+00:18:23,400 --> 00:18:24,400
+siniverinen.
+
+318
+00:18:24,400 --> 00:18:28,400
+Oh, enkä minä ole edes laittanut kampausta ja asunikin on.
+
+319
+00:18:28,400 --> 00:18:31,400
+Uuko näyssesi ei ole mitään vikaa.
+
+320
+00:18:31,400 --> 00:18:33,400
+Hän taitaa etsiä sinua.
+
+321
+00:18:33,400 --> 00:18:36,400
+Oh, oh, minä aivan punastun.
+
+322
+00:18:36,400 --> 00:18:38,400
+Hillitse, Hermosi.
+
+323
+00:18:38,400 --> 00:18:40,400
+Tilaisuutesi on koittanut.
+
+324
+00:18:40,400 --> 00:18:41,400
+Oh, oh.
+
+325
+00:18:41,400 --> 00:18:44,400
+Tuossa se mustakreivitä nyt on.
+
+326
+00:18:54,400 --> 00:18:58,400
+Olethan iloinen, että lähetimme kirjeen.
+
+327
+00:18:58,400 --> 00:19:00,400
+Totta kai pappa teki.
+
+328
+00:19:00,400 --> 00:19:01,400
+Kiitos.
+
+329
+00:19:01,400 --> 00:19:03,400
+Kiitos.
+
+330
+00:19:03,400 --> 00:19:05,400
+Kiitos.
+
+331
+00:19:05,400 --> 00:19:07,400
+Kiitos.
+
+332
+00:19:07,400 --> 00:19:09,400
+Kiitos.
+
+333
+00:19:09,400 --> 00:19:11,400
+Kiitos.
+
+334
+00:19:11,400 --> 00:19:13,400
+Kiitos.
+
+335
+00:19:13,400 --> 00:19:15,400
+Kiitos.
+
+336
+00:19:15,400 --> 00:19:17,400
+Kiitos.
+
+337
+00:19:17,400 --> 00:19:19,400
+Kiitos.
+
+338
+00:19:19,400 --> 00:19:21,400
+Kiitos.
+
+339
+00:19:21,400 --> 00:19:23,400
+Totta kai pappa kuulkaa.
+
+340
+00:19:52,400 --> 00:19:56,400
+Niikettä niveliin. Tältä näkyy jo rakas muumilaakso.
+
+341
+00:19:56,400 --> 00:20:00,400
+Ja se näyttää maailman parhaalta paikalta.
+
+342
+00:20:01,400 --> 00:20:06,400
+Hei odottakaa. Pitääkö teidän juosta? Älkää jättäkö minua.
+
+343
+00:20:06,400 --> 00:20:10,400
+Saat haukattavaa heti kun olemme ehtineet kotia.
+
+344
+00:20:10,400 --> 00:20:12,400
+Jalkani ei vätenää kannan.
+
+345
+00:20:12,400 --> 00:20:14,400
+Vieri sitten mäki alas!
+
+346
+00:20:15,400 --> 00:20:20,400
+Muumilaaksossa oli taas kaunis ja leppuisa päivä.
+
+347
+00:20:20,400 --> 00:20:26,400
+Sää oli erinomainen, eikä kukaan valittanut pitkästyvän se.
+

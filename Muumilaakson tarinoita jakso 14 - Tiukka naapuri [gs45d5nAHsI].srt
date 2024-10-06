@@ -1,0 +1,1240 @@
+1
+00:00:00,000 --> 00:00:20,000
+Sää oli niin upea, ettei Muumi pappa kerta kaikkiaan pystynyt keskittymään muistelmiensä kirjoittamiseen.
+
+2
+00:00:20,000 --> 00:00:27,000
+Huomenta, Hemuli. Huomenta. Oletko löytänyt uuden kasvin?
+
+3
+00:00:27,000 --> 00:00:32,000
+Vohien. Olen jo tutkinut Muumilakson näpikotaisin.
+
+4
+00:00:32,000 --> 00:00:37,000
+Niinpä. Minäkin tunnen Muumilakson jo kaikisen asukkaan.
+
+5
+00:00:37,000 --> 00:00:39,000
+Aivan niin.
+
+6
+00:00:40,000 --> 00:00:44,000
+Miten on? Maistuisiko kuppi teetä?
+
+7
+00:00:57,000 --> 00:00:59,000
+Muumipeikko ja myy.
+
+8
+00:00:59,000 --> 00:01:01,000
+Siltä näyttää.
+
+9
+00:01:01,000 --> 00:01:03,000
+Kurkkimassa aidanraosta.
+
+10
+00:01:03,000 --> 00:01:05,000
+Sehän on autiotalo.
+
+11
+00:01:12,000 --> 00:01:14,000
+Muumipeikko, mitä sinä tiirailet?
+
+12
+00:01:14,000 --> 00:01:16,000
+Hei isä.
+
+13
+00:01:16,000 --> 00:01:18,000
+Siellä ei ole asuttu vuosikausiin.
+
+14
+00:01:18,000 --> 00:01:20,000
+Joku muutti sinne juuri.
+
+15
+00:01:20,000 --> 00:01:22,000
+Ai.
+
+16
+00:01:22,000 --> 00:01:24,000
+Annasko minä kurkkaan?
+
+17
+00:01:25,000 --> 00:01:28,000
+Hyvä tavat on miten siistiä.
+
+18
+00:01:28,000 --> 00:01:30,000
+Tulisivatkohan lapset kanssamme leikkinään?
+
+19
+00:01:30,000 --> 00:01:33,000
+Jaa. Vaikuttavat niin hyvää tapaisilta.
+
+20
+00:01:33,000 --> 00:01:35,000
+Tahtoisin päästä lähemmäksi.
+
+21
+00:01:35,000 --> 00:01:39,000
+Niin minäkin. Istua kököttävät siellä paikoillaan.
+
+22
+00:01:39,000 --> 00:01:42,000
+Meidän täytyy päästä aidan toiselle puolelle.
+
+23
+00:01:42,000 --> 00:01:46,000
+Mitenkäs se onnistuu? Emme voi marssia sisään noin vain.
+
+24
+00:01:46,000 --> 00:01:49,000
+Mennään mukamas lainaamaan sokeriate.
+
+25
+00:01:49,000 --> 00:01:52,000
+Misä sinun mielikuituksesi on?
+
+26
+00:01:52,000 --> 00:01:55,000
+Lainaan suurennuslasiasi.
+
+27
+00:01:55,000 --> 00:01:58,000
+Mikäs siinä? Ole hyvä.
+
+28
+00:01:58,000 --> 00:02:00,000
+Vähän röyhkeä.
+
+29
+00:02:02,000 --> 00:02:04,000
+Isä, mitä sinä aiot?
+
+30
+00:02:07,000 --> 00:02:10,000
+Te jäätte tähän odottamaan.
+
+31
+00:02:10,000 --> 00:02:14,000
+Jos tulette mukaan, koko suunnitelma menee plörinäksi.
+
+32
+00:02:14,000 --> 00:02:17,000
+Isä, mitä sinä oikein aiot?
+
+33
+00:02:22,000 --> 00:02:26,000
+Mitä hän isä on suurennuslasilla tutkivinaan?
+
+34
+00:02:26,000 --> 00:02:28,000
+Tietäisinkin.
+
+35
+00:02:36,000 --> 00:02:39,000
+Äiti, tuolta hiipii joku.
+
+36
+00:02:42,000 --> 00:02:46,000
+Hyvä mies. Mitä ihmetä te teette siellä?
+
+37
+00:02:46,000 --> 00:02:49,000
+Voi minua hömöt jaesta.
+
+38
+00:02:49,000 --> 00:02:52,000
+Luulin, ettei täällä asu ketään.
+
+39
+00:02:52,000 --> 00:02:55,000
+Me asumme. Me muutimme juuri.
+
+40
+00:02:55,000 --> 00:02:59,000
+Ai, anteeksi kovasti. En halua tunkeilla.
+
+41
+00:02:59,000 --> 00:03:02,000
+No ja mitä te sitten teette täällä?
+
+42
+00:03:02,000 --> 00:03:05,000
+Tutkin murhaista liikennejärjestelmää.
+
+43
+00:03:05,000 --> 00:03:07,000
+Onko niille semmoinenkin?
+
+44
+00:03:07,000 --> 00:03:10,000
+On toki. On kiehtovaa tutkimus.
+
+45
+00:03:10,000 --> 00:03:13,000
+Onko niille semmoinenkin?
+
+46
+00:03:13,000 --> 00:03:19,000
+On toki. On kiehtovaa tutkia, miten ne rakentavat tiensä.
+
+47
+00:03:19,000 --> 00:03:23,000
+Tämä tässä on murhaisten pääkatu.
+
+48
+00:03:24,000 --> 00:03:27,000
+Minä en näe mitään katua.
+
+49
+00:03:27,000 --> 00:03:31,000
+Te ette olekaan asiantuntija, niin kuin minä.
+
+50
+00:03:31,000 --> 00:03:35,000
+Muuten tervetuloa mumilaaksoon.
+
+51
+00:03:35,000 --> 00:03:40,000
+Vaikka asun jokseenkin kaukana, olen silti lähinnäapurinne näillä main.
+
+52
+00:03:41,000 --> 00:03:44,000
+Ai, te olette muumipappaa.
+
+53
+00:03:44,000 --> 00:03:49,000
+Niin itse asiassa olen. Mutta mistä te sen tiedätte?
+
+54
+00:03:49,000 --> 00:03:53,000
+Onko mainemme levinnyt jo niin laajalle?
+
+55
+00:03:53,000 --> 00:03:58,000
+Olemme kuulleet, että muumit ovat hiukan epätavallisia.
+
+56
+00:03:58,000 --> 00:04:01,000
+Voi mitä imartelevaa.
+
+57
+00:04:01,000 --> 00:04:04,000
+Ja te olette rouvaa...
+
+58
+00:04:04,000 --> 00:04:08,000
+Vili, Jonkka, äiti ja kotirouva.
+
+59
+00:04:08,000 --> 00:04:10,000
+Hauska tutustua.
+
+60
+00:04:10,000 --> 00:04:15,000
+Isähän näyttää saaneen meille uusia ystäviä.
+
+61
+00:04:15,000 --> 00:04:18,000
+Ai, tervetuli asjuhla.
+
+62
+00:04:18,000 --> 00:04:22,000
+Meillä ei ole ollut pitkään aikaan kunnonkekkereitä.
+
+63
+00:04:22,000 --> 00:04:26,000
+Se on oikein hyvä ajatus, Kultaseni.
+
+64
+00:04:26,000 --> 00:04:32,000
+Mitenkäs me muuten voisimme osoittaa, että he ovat tervetulleita mumilaaksoon?
+
+65
+00:04:32,000 --> 00:04:37,000
+Minä puolestani huolehdin lasten viihtymisestä.
+
+66
+00:04:37,000 --> 00:04:40,000
+Hyvä. Muuten Hemuli...
+
+67
+00:04:40,000 --> 00:04:44,000
+Arvaan. Minun pitää järjestää ilotulitus.
+
+68
+00:04:44,000 --> 00:04:47,000
+Kerätään paljon kukkia.
+
+69
+00:04:49,000 --> 00:04:52,000
+Mitähän kukkia sitä keräisi?
+
+70
+00:04:52,000 --> 00:04:56,000
+Minä tunnen lähiympäristön kukat.
+
+71
+00:05:08,000 --> 00:05:11,000
+Tästä lapset varmaan pitämät.
+
+72
+00:05:11,000 --> 00:05:14,000
+Jos pysyvät hengissä.
+
+73
+00:05:20,000 --> 00:05:24,000
+He ovat outoja. Muistakaa käyttäytyä erityisen hyvin.
+
+74
+00:05:24,000 --> 00:05:27,000
+Kyllä äiti.
+
+75
+00:05:30,000 --> 00:05:33,000
+Luumi-Peikko, vie pikkuleivät pöytään.
+
+76
+00:05:33,000 --> 00:05:35,000
+Selvä.
+
+77
+00:05:35,000 --> 00:05:37,000
+Liukumäki toimii hienosti.
+
+78
+00:05:37,000 --> 00:05:39,000
+Hyvä. Menen kokeilemaan.
+
+79
+00:05:39,000 --> 00:05:40,000
+Nom, nom, nom.
+
+80
+00:05:40,000 --> 00:05:43,000
+Hyi, sormet pois, nipsu.
+
+81
+00:05:43,000 --> 00:05:45,000
+Otin vain yhden.
+
+82
+00:05:49,000 --> 00:05:51,000
+Hälytys, hälytys.
+
+83
+00:05:51,000 --> 00:05:54,000
+Vili jonka katraineen lähestyy.
+
+84
+00:05:54,000 --> 00:05:58,000
+Voi, voi, voi. Kiire tuli. Auttakaa minua koristelussa.
+
+85
+00:06:00,000 --> 00:06:02,000
+Sytytään.
+
+86
+00:06:03,000 --> 00:06:07,000
+Sytytäänkö raketit heti vai myöhemmin?
+
+87
+00:06:07,000 --> 00:06:11,000
+Myöhemmin, myöhemmin. Loistelijaksi lopuksi.
+
+88
+00:06:17,000 --> 00:06:19,000
+Tervetuloa, Muumitaloon.
+
+89
+00:06:19,000 --> 00:06:22,000
+Kiitoksia ystävällisestä kutsusta.
+
+90
+00:06:22,000 --> 00:06:25,000
+Käykää sisään ja olkaa kuin kotona.
+
+91
+00:06:25,000 --> 00:06:28,000
+Verittäin miellyttävä yllätys.
+
+92
+00:06:32,000 --> 00:06:35,000
+Tervetuloa, Muumitaloon.
+
+93
+00:06:39,000 --> 00:06:41,000
+Roskia.
+
+94
+00:06:41,000 --> 00:06:44,000
+Äiti, näyttää kovin suttuiselta.
+
+95
+00:06:44,000 --> 00:06:49,000
+Lattialle olisi pitänyt ripotella ruusunnuppuja, mutta niitä ei löytynyt.
+
+96
+00:06:49,000 --> 00:06:51,000
+Kukista tulee tahroja.
+
+97
+00:06:51,000 --> 00:06:55,000
+Ei haittaa. Saanko esitellä lapsemme?
+
+98
+00:06:55,000 --> 00:06:58,000
+Kovin ovat erinäköisiä.
+
+99
+00:06:58,000 --> 00:07:01,000
+Muumipeikko on ainoa ihka oma lapsi.
+
+100
+00:07:01,000 --> 00:07:06,000
+Toiset ovat. Lapsille tulee varmaan hauskaa.
+
+101
+00:07:06,000 --> 00:07:12,000
+Minun lapseni eivät leiki. He lukevat ja opiskelevat. Mieluummin.
+
+102
+00:07:12,000 --> 00:07:16,000
+Ihanko totta. Oletteko varma siitä?
+
+103
+00:07:16,000 --> 00:07:18,000
+Tietysti.
+
+104
+00:07:21,000 --> 00:07:26,000
+Käydään salonkiin. Vili-jonkat voivat opiskella toisten leikkiä.
+
+105
+00:07:26,000 --> 00:07:29,000
+Pyyhtikää tuoli ennen kuin istutte.
+
+106
+00:07:29,000 --> 00:07:31,000
+Kyllä, äiti.
+
+107
+00:07:33,000 --> 00:07:36,000
+Lapset ovat rakennelleet.
+
+108
+00:07:36,000 --> 00:07:39,000
+Erikoinen kalustus.
+
+109
+00:07:42,000 --> 00:07:46,000
+Ettekö te tosiaan tahdo leikkiä mitään?
+
+110
+00:07:46,000 --> 00:07:48,000
+En.
+
+111
+00:07:49,000 --> 00:07:52,000
+Liukumäki tekisi kyllä teille ihmeitä.
+
+112
+00:07:52,000 --> 00:07:54,000
+Ei kiitos.
+
+113
+00:07:54,000 --> 00:07:57,000
+Ei. Ei missään nimessä.
+
+114
+00:07:58,000 --> 00:08:01,000
+Oletteko ihan varmoja?
+
+115
+00:08:02,000 --> 00:08:04,000
+Sitä minäkin.
+
+116
+00:08:05,000 --> 00:08:08,000
+Sen parempi meille.
+
+117
+00:08:18,000 --> 00:08:21,000
+Kuulostaa Muumipeikolta.
+
+118
+00:08:25,000 --> 00:08:28,000
+Ui. Ui.
+
+119
+00:08:31,000 --> 00:08:34,000
+Pikkumyy ja nipsu.
+
+120
+00:08:34,000 --> 00:08:38,000
+Kylläpä teidän lapsenne vaikuttavat hiljaisilta.
+
+121
+00:08:38,000 --> 00:08:42,000
+Niin. Kiltit lapset näkyvät, mutta eivät kuulu.
+
+122
+00:08:44,000 --> 00:08:47,000
+Se oli minun lapseni.
+
+123
+00:08:49,000 --> 00:08:51,000
+Ja se oli toinen.
+
+124
+00:08:51,000 --> 00:08:54,000
+Meillä tuntuu olevan hauskaa.
+
+125
+00:08:54,000 --> 00:08:57,000
+Otakaa pikkuleipärova viljonka.
+
+126
+00:08:57,000 --> 00:09:00,000
+Ne ovat hiukan erikoisen makuisia.
+
+127
+00:09:02,000 --> 00:09:05,000
+Älkää olko huolissanne.
+
+128
+00:09:09,000 --> 00:09:12,000
+Jokainen vuorollaan.
+
+129
+00:09:17,000 --> 00:09:19,000
+Pelastakaa lapseni.
+
+130
+00:09:21,000 --> 00:09:24,000
+Lopettakaa. Se on vaarallista.
+
+131
+00:09:26,000 --> 00:09:30,000
+Minähän käskin teidän käyttäytyä kunnollaan.
+
+132
+00:09:34,000 --> 00:09:36,000
+Voitte satuttaa itsenne.
+
+133
+00:09:36,000 --> 00:09:41,000
+Älkää hermoilko. Minulla on käsilaukussa lääkettä naamuihin.
+
+134
+00:09:42,000 --> 00:09:44,000
+Luonnoton, Eiti.
+
+135
+00:09:44,000 --> 00:09:46,000
+Eiti!
+
+136
+00:09:48,000 --> 00:09:50,000
+Lapset, lopettakaa.
+
+137
+00:09:50,000 --> 00:09:52,000
+Lopettakaa.
+
+138
+00:09:58,000 --> 00:10:00,000
+Me lähdemme kotiin.
+
+139
+00:10:01,000 --> 00:10:04,000
+Loistelijan lopun aika, luulisin.
+
+140
+00:10:05,000 --> 00:10:07,000
+Kyllähän minua varoitettiin.
+
+141
+00:10:08,000 --> 00:10:12,000
+Pannisinko lapseni alttiiksi kaikille tälle?
+
+142
+00:10:12,000 --> 00:10:15,000
+Muomilaakso ei ole sopiva paikka lapsille.
+
+143
+00:10:17,000 --> 00:10:19,000
+Mitäs tämä oikein on?
+
+144
+00:10:19,000 --> 00:10:22,000
+Ilo tulitus teidän kunniaksenne.
+
+145
+00:10:22,000 --> 00:10:24,000
+Mitä?
+
+146
+00:10:24,000 --> 00:10:27,000
+Olen järjestänyt sen teitä varten.
+
+147
+00:10:38,000 --> 00:10:41,000
+Hei. Tulkaa pian uudestaan.
+
+148
+00:10:41,000 --> 00:10:43,000
+Huomenna.
+
+149
+00:10:43,000 --> 00:10:45,000
+Ei tule kuuloonkaan.
+
+150
+00:10:45,000 --> 00:10:48,000
+En usko, että Viljonka nauttii juhlista.
+
+151
+00:10:48,000 --> 00:10:51,000
+Mutta hänen lapsensa nauttivat.
+
+152
+00:10:53,000 --> 00:10:58,000
+Minusta Viljonka olisi pitänyt itse laskea liukumäestä.
+
+153
+00:10:58,000 --> 00:11:03,000
+Aikuiset eivät laske liukumäkiä. He pelkäävät näyttävänsä hassuilta.
+
+154
+00:11:03,000 --> 00:11:05,000
+Isä.
+
+155
+00:11:05,000 --> 00:11:10,000
+Olen kovin pahoillani, mumipeikko. Korjaan, mitä olen rikkonut.
+
+156
+00:11:10,000 --> 00:11:12,000
+Pappa, mitä tapahtui?
+
+157
+00:11:12,000 --> 00:11:17,000
+Siitä taitaa olla pitkä aika, kun viimeksi olen laskenut liukumäkiä.
+
+158
+00:11:19,000 --> 00:11:24,000
+Tehdään liukumäestä nyt niin tukeva, että se kestää muumimammania.
+
+159
+00:11:24,000 --> 00:11:27,000
+Minutkin. Tehdään se äidin takia.
+
+160
+00:11:27,000 --> 00:11:29,000
+Kiitos, että korjasit. Mä en.
+
+161
+00:11:29,000 --> 00:11:32,000
+Mutta muista, että mekin haluamme laskea.
+
+162
+00:11:32,000 --> 00:11:35,000
+Tottakai. Minä vain kokeilen.
+
+163
+00:11:44,000 --> 00:11:47,000
+Te pysytte siinä, kunnes tulen takaisin.
+
+164
+00:11:47,000 --> 00:11:49,000
+Pääsinkö ulos?
+
+165
+00:11:49,000 --> 00:11:51,000
+Pihalla saat opiskelu.
+
+166
+00:11:51,000 --> 00:11:53,000
+Mitä siis joku on?
+
+167
+00:11:53,000 --> 00:11:58,000
+Ette saa enää ikinä leikkiä niiden meluisten kauhkakaroiden kanssa.
+
+168
+00:11:58,000 --> 00:12:01,000
+Äiti, minne sinä menet?
+
+169
+00:12:01,000 --> 00:12:06,000
+Etsimään toista taloa. Muumilaaksa on muuto, oli erehdys.
+
+170
+00:12:06,000 --> 00:12:10,000
+Roa-Vilinjonkka, hyvää päivää.
+
+171
+00:12:10,000 --> 00:12:13,000
+Pysykää poissa lasten ilettyviltä.
+
+172
+00:12:13,000 --> 00:12:17,000
+Voihan sääli. Ajattelimme juuri mennä hakemaan heitä.
+
+173
+00:12:19,000 --> 00:12:21,000
+Kurju.
+
+174
+00:12:21,000 --> 00:12:23,000
+Kukaan on?
+
+175
+00:12:23,000 --> 00:12:25,000
+Voihan.
+
+176
+00:12:25,000 --> 00:12:27,000
+Kukaan on?
+
+177
+00:12:27,000 --> 00:12:29,000
+Kukaan on?
+
+178
+00:12:29,000 --> 00:12:31,000
+Kukaan on?
+
+179
+00:12:31,000 --> 00:12:33,000
+Kukaan on?
+
+180
+00:12:33,000 --> 00:12:35,000
+Mitä?
+
+181
+00:12:35,000 --> 00:12:37,000
+Kurja juttu.
+
+182
+00:12:46,000 --> 00:12:48,000
+Odottakaa.
+
+183
+00:13:00,000 --> 00:13:02,000
+Hyvä, hyvä.
+
+184
+00:13:03,000 --> 00:13:05,000
+Hyvä.
+
+185
+00:13:15,000 --> 00:13:17,000
+Apua.
+
+186
+00:13:17,000 --> 00:13:19,000
+Ei sinua enää pysty auttamaan.
+
+187
+00:13:19,000 --> 00:13:23,000
+Hallani on syvä kuilu ja nälkäinen krokotiili.
+
+188
+00:13:23,000 --> 00:13:26,000
+Olisi pitänyt ottaa Vilionkan lapset mukaan.
+
+189
+00:13:26,000 --> 00:13:28,000
+Mitä entäs Vilionkka?
+
+190
+00:13:28,000 --> 00:13:31,000
+Emme olisi kertoneet hänelle.
+
+191
+00:13:31,000 --> 00:13:34,000
+Nipsu, lähtikö sinusta henki?
+
+192
+00:13:34,000 --> 00:13:40,000
+Ei, tyrmäsin krokotiilin, kun putosin sen päälle ja nyt uin rantaan.
+
+193
+00:13:40,000 --> 00:13:43,000
+Minä luulin, että tosaa uida.
+
+194
+00:13:43,000 --> 00:13:45,000
+Huono kiinni.
+
+195
+00:13:47,000 --> 00:13:49,000
+Vilionkan lapset.
+
+196
+00:13:54,000 --> 00:13:56,000
+Miksi eivät tule tänne?
+
+197
+00:13:56,000 --> 00:14:00,000
+Heidän äitinsä on tietysti kieltänyt heitä olemasta.
+
+198
+00:14:01,000 --> 00:14:03,000
+Mitäs nyt?
+
+199
+00:14:10,000 --> 00:14:15,000
+Hoi, miksi et ole leikkimässä muumipeikon ja muiden kanssa?
+
+200
+00:14:15,000 --> 00:14:18,000
+He eivät halua leikkiä kanssamme.
+
+201
+00:14:18,000 --> 00:14:21,000
+Me saamme aina olla yksi.
+
+202
+00:14:21,000 --> 00:14:24,000
+Mitä Haisuli tuolla tekee?
+
+203
+00:14:24,000 --> 00:14:27,000
+Teillä ei kai yleensä ole hauskaa.
+
+204
+00:14:27,000 --> 00:14:30,000
+Ei, mekin haluamme leikkiä.
+
+205
+00:14:30,000 --> 00:14:35,000
+Kuulkaapas, minä voin näyttää teille vielä paremman leikkipaikan.
+
+206
+00:14:35,000 --> 00:14:36,000
+Niinkö?
+
+207
+00:14:36,000 --> 00:14:38,000
+Ilman muuta.
+
+208
+00:14:38,000 --> 00:14:41,000
+Mitä minä teille rupeaisin valehtelemaan?
+
+209
+00:14:41,000 --> 00:14:43,000
+Se on jännittävä paikka.
+
+210
+00:14:43,000 --> 00:14:45,000
+Täällä on kamalan ikävää.
+
+211
+00:14:45,000 --> 00:14:47,000
+Kamalan!
+
+212
+00:14:47,000 --> 00:14:50,000
+Luuletko sitten, ettei muumipeikko enää leikki kanssamme?
+
+213
+00:14:50,000 --> 00:14:51,000
+Ei varmas.
+
+214
+00:14:51,000 --> 00:14:54,000
+Veljesi on oikeassa, niin se on.
+
+215
+00:14:54,000 --> 00:14:56,000
+Lähdetään nyt jo.
+
+216
+00:14:56,000 --> 00:14:59,000
+Mikähän metku Haisulilla on mielessä?
+
+217
+00:15:00,000 --> 00:15:03,000
+Tämä on se paikka, josta kerroin.
+
+218
+00:15:03,000 --> 00:15:10,000
+Tarttukaa köyteen ja heivauttakaa itsenne toiselle puolelle ja takaisin.
+
+219
+00:15:10,000 --> 00:15:14,000
+En ole ikinä ollut näin ylivetopaitoista.
+
+220
+00:15:14,000 --> 00:15:17,000
+Tätä on se paikka, josta kerroin.
+
+221
+00:15:17,000 --> 00:15:24,000
+Tarttukaa köyteen ja heivauttakaa itsenne toiselle puolelle ja takaisin.
+
+222
+00:15:24,000 --> 00:15:27,000
+En ole ikinä ollut näin ylivetopaitoista.
+
+223
+00:15:27,000 --> 00:15:28,000
+Pelottaa.
+
+224
+00:15:28,000 --> 00:15:32,000
+Mitäs hauskuttaa on olemassa ilman väristystä.
+
+225
+00:15:34,000 --> 00:15:37,000
+Eikö vastakkainen rinne ole vähän korkeampi?
+
+226
+00:15:37,000 --> 00:15:41,000
+On. Teidän täytyy nostaa koipianne.
+
+227
+00:15:41,000 --> 00:15:44,000
+Kuka haluaa olla ensimmäinen?
+
+228
+00:15:45,000 --> 00:15:48,000
+Mennään kaikki yhtä aikaa.
+
+229
+00:15:48,000 --> 00:15:49,000
+Kaikkiko?
+
+230
+00:15:49,000 --> 00:15:52,000
+Silloin te ette ole niin peloisia.
+
+231
+00:15:52,000 --> 00:15:54,000
+En halua sillä lailla.
+
+232
+00:15:54,000 --> 00:15:57,000
+Oh, tahdot mennä yksin vai?
+
+233
+00:15:57,000 --> 00:16:00,000
+Mene, se on hauskaa.
+
+234
+00:16:01,000 --> 00:16:03,000
+Uskallatko sinä?
+
+235
+00:16:03,000 --> 00:16:05,000
+No, miksen uskaltaisi.
+
+236
+00:16:05,000 --> 00:16:10,000
+Minähän olen tehnyt teempun satoja ja satoja kertoja.
+
+237
+00:16:10,000 --> 00:16:12,000
+Näytä sitten, Haisuli.
+
+238
+00:16:12,000 --> 00:16:14,000
+Noni, Toivoteikka.
+
+239
+00:16:14,000 --> 00:16:17,000
+En tiennytkään, että Haisuli on tehty.
+
+240
+00:16:18,000 --> 00:16:20,000
+Noni, Toivoteikka.
+
+241
+00:16:20,000 --> 00:16:25,000
+En tiennytkään, että Haisuli on kova riippumaan köysissä.
+
+242
+00:16:26,000 --> 00:16:29,000
+Kuule, onko tämä sinun vakio paikkasi?
+
+243
+00:16:29,000 --> 00:16:31,000
+Tavallaan.
+
+244
+00:16:31,000 --> 00:16:35,000
+Rehelisesti sanoen, en uskoisi itsekään pystyväni temppuun,
+
+245
+00:16:35,000 --> 00:16:38,000
+ellen tietäisi sinun selvinneen siitä.
+
+246
+00:16:38,000 --> 00:16:41,000
+Haisuli, sinun täytyy näyttää meille.
+
+247
+00:16:41,000 --> 00:16:44,000
+Hyppää ensin, minä olen seuraava.
+
+248
+00:16:44,000 --> 00:16:47,000
+Ei, ei, hyppää sinä vain.
+
+249
+00:16:47,000 --> 00:16:52,000
+Täytyyhän minun nähdä omin silmin, miten temppu tehdään.
+
+250
+00:16:53,000 --> 00:16:57,000
+Mitä nyt, et ole itsekään hypännyt aikaisemmin?
+
+251
+00:16:57,000 --> 00:16:59,000
+Olenpas, nyt ei vain huvita.
+
+252
+00:16:59,000 --> 00:17:03,000
+Ha ha, älä viitsi pilata toisten iloa.
+
+253
+00:17:03,000 --> 00:17:06,000
+Olemme täällä valmiina taputtamaan.
+
+254
+00:17:06,000 --> 00:17:10,000
+Katsokaa, Ullias ja Urhea Haisuli Tartsan.
+
+255
+00:17:10,000 --> 00:17:11,000
+Joo.
+
+256
+00:17:11,000 --> 00:17:15,000
+Oletko valmiina, Haisuli? Läpyttäkää kunnolla.
+
+257
+00:17:18,000 --> 00:17:21,000
+Oisankkarini, Haisuli, hyppää.
+
+258
+00:17:21,000 --> 00:17:24,000
+Haisuli, me odotamme.
+
+259
+00:17:25,000 --> 00:17:26,000
+Valtia.
+
+260
+00:17:26,000 --> 00:17:28,000
+Haisuli, näytä.
+
+261
+00:17:41,000 --> 00:17:43,000
+Ööö...
+
+262
+00:17:46,000 --> 00:17:50,000
+Vai olet sinä muka tehnyt tämän monesti, hä?
+
+263
+00:17:50,000 --> 00:17:54,000
+Olen, köys jokain putistunut.
+
+264
+00:17:54,000 --> 00:17:57,000
+Temppu on mahdoton.
+
+265
+00:17:57,000 --> 00:18:00,000
+Ja sinä tiesit sen kyllä, Haisuli.
+
+266
+00:18:00,000 --> 00:18:02,000
+En tiedä nyt.
+
+267
+00:18:02,000 --> 00:18:05,000
+Seuratkaa meitä, mennään leikkimään oikeasti.
+
+268
+00:18:05,000 --> 00:18:10,000
+Haisuli, leikis sinä Tartsan ja jää rikavan kuin huvittaa.
+
+269
+00:18:10,000 --> 00:18:15,000
+Odottakaa, että te voi jättää minua tänne roistaa.
+
+270
+00:18:17,000 --> 00:18:19,000
+Tämä on epäreilua.
+
+271
+00:18:20,000 --> 00:18:22,000
+Muumipeikkaa.
+
+272
+00:18:22,000 --> 00:18:23,000
+Voi!
+
+273
+00:18:36,000 --> 00:18:39,000
+Veli, jonka lapsilla oli hirveän hauskaa,
+
+274
+00:18:39,000 --> 00:18:44,000
+eivätkä he palanneet kotiin ennen kuin myöhään illalla.
+
+275
+00:18:47,000 --> 00:18:49,000
+Hei huomiseen.
+
+276
+00:18:49,000 --> 00:18:51,000
+Hei. Hei.
+
+277
+00:18:51,000 --> 00:18:54,000
+Hei. Hei. Hei. Hei. Hei.
+
+278
+00:18:56,000 --> 00:18:58,000
+Oi, oi, lapseni.
+
+279
+00:18:58,000 --> 00:19:02,000
+Missä te olette olleet? Minähän käskin teidän pysyä kotona.
+
+280
+00:19:02,000 --> 00:19:04,000
+Olimme Muumipeikon kanssa.
+
+281
+00:19:04,000 --> 00:19:06,000
+Ai, hän siippasi teidät.
+
+282
+00:19:06,000 --> 00:19:09,000
+Ei se ihan niin ollut. Me...
+
+283
+00:19:09,000 --> 00:19:11,000
+Unohtakaa se kamala perhe.
+
+284
+00:19:11,000 --> 00:19:13,000
+Me muutamme täältä heti paikalla.
+
+285
+00:19:13,000 --> 00:19:14,000
+Ai, muutamme?
+
+286
+00:19:14,000 --> 00:19:16,000
+Niin, pois tästä laksosta.
+
+287
+00:19:16,000 --> 00:19:20,000
+Se ei sovi sellaisille, jotka rakastavat järjestystä ja tahrottomia koteja.
+
+288
+00:19:21,000 --> 00:19:23,000
+Mikä teille nyt tuli?
+
+289
+00:19:24,000 --> 00:19:26,000
+Me emme halua muuttaa.
+
+290
+00:19:27,000 --> 00:19:29,000
+Me haluamme kyllä jäädä.
+
+291
+00:19:31,000 --> 00:19:33,000
+Tahdomme leikkiä Muumipeikon kanssa.
+
+292
+00:19:33,000 --> 00:19:35,000
+Muumi täällä on hauska ja pölyinen.
+
+293
+00:19:35,000 --> 00:19:38,000
+Tahdomme asua ikuisesti Muumilaaksossa.
+
+294
+00:19:38,000 --> 00:19:41,000
+Mallikelpoinen kasvatus, oma esimerkki.
+
+295
+00:19:41,000 --> 00:19:45,000
+Kokemukseni mukaan lapset vetävät pitemmän korren.
+
+296
+00:19:47,000 --> 00:19:49,000
+Täällä on yhdessä.
+
+297
+00:19:49,000 --> 00:19:51,000
+Täällä on yhdessä.
+
+298
+00:19:51,000 --> 00:19:53,000
+Täällä on yhdessä.
+
+299
+00:19:53,000 --> 00:19:55,000
+Täällä on yhdessä.
+
+300
+00:19:55,000 --> 00:19:57,000
+Täällä on yhdessä.
+
+301
+00:19:57,000 --> 00:19:59,000
+Täällä on yhdessä.
+
+302
+00:19:59,000 --> 00:20:01,000
+Täällä on yhdessä.
+
+303
+00:20:01,000 --> 00:20:03,000
+Täällä on yhdessä.
+
+304
+00:20:03,000 --> 00:20:05,000
+Täällä on yhdessä.
+
+305
+00:20:05,000 --> 00:20:07,000
+Täällä on yhdessä.
+
+306
+00:20:07,000 --> 00:20:09,000
+Täällä on yhdessä.
+
+307
+00:20:09,000 --> 00:20:11,000
+Täällä on yhdessä.
+
+308
+00:20:11,000 --> 00:20:13,000
+Täällä on yhdessä.
+
+309
+00:20:13,000 --> 00:20:16,000
+Monta.
+
+310
+00:20:23,000 --> 00:20:29,000
+Sillä tavalla Vili, jonkaista kolmine lapsineen tuli Muumilaakson väkinaisia asukkaita.
+
